@@ -13,3 +13,9 @@ Initiate the project local working copy :
 λ cd KARMA
 λ git clone https://github.com/bubblebenj/open-games-karma.git ./
 ```
+
+Install Create React App
+```
+λ npm install -g create-react-app
+λ create-react-app karma
+```
