@@ -7,3 +7,9 @@ I also mentionned in the purposed of this project that I'd would like to experim
 Fortunatly, default setup for the [Create React App](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html) [is now a PWA](https://reactjs.org/blog/2017/05/18/whats-new-in-create-react-app.html#progressive-web-apps-by-default)
 
 So let's do it.
+Initiate the project local working copy :
+``` bash
+λ mkdir KARMA
+λ cd KARMA
+λ git clone https://github.com/bubblebenj/open-games-karma.git ./
+```
