@@ -3,7 +3,7 @@ This project serve several purposes:
 - Design needs
   - From development POV
     - Simple (Not long to implement) and easy enough to iterate quickly.
-    - Mobil first.
+    - Mobil first: The game should be available for mobile first and should support offline mode this PWA is a good lead on the matter.
   
   - From UX POV:
     - 5 Minutes short play game I call cigarette game:  
